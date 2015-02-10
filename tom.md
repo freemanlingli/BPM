@@ -1,12 +1,4 @@
-test
-
-
-https://raw.githubusercontent.com/freemanlingli/BPM/master/tom.md  是可以看出源素材内容的
-
-SVN目录规范
-
- svn://10.177.132.36/bpmtool/trunk
-                                 /bmp     
+                                   /bmp     
                                       /doc 
                                           /01-需求
                                                       /业务流程
