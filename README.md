@@ -1,3 +1,7 @@
-# BPM\\\
+### 规范定义
 
-hello every body
+- [SVN目录规范](https://raw.githubusercontent.com/freemanlingli/BPM/master/tom.md )。
+- 使用了[Jekyll](http://jekyllrb.com/)。
+
+
+
