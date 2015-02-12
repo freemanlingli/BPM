@@ -1,7 +1,7 @@
-### 规范定义
+### BPM规范定义
 
-- [SVN目录规范](https://raw.githubusercontent.com/freemanlingli/BPM/master/tom.md )。
-- 使用了[Jekyll](http://jekyllrb.com/)。
+- [SVN目录规范](https://raw.githubusercontent.com/freemanlingli/BPM/master/doc/tom.md )。
+- [数据库规范](https://raw.githubusercontent.com/freemanlingli/BPM/master/doc/database.md )。
 
 
 
