@@ -12,6 +12,6 @@
 
 
 #成员
--freemanlingli  tom
--shawnshi1984   特特
--Verten         洪彬
+- freemanlingli  tom
+- shawnshi1984   特特
+- Verten         洪彬
