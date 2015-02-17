@@ -1,10 +1,6 @@
 #重要网址
 -缺陷&改进工具 [缺陷&改进]( https://github.com/freemanlingli/BPM/issues)
 
-#成员
-freemanlingli  tom
-shawnshi1984   特特
-Verten         洪彬
 
 #团队参考手册
 
@@ -14,3 +10,8 @@ Verten         洪彬
 - [团队环境发布](https://raw.githubusercontent.com/freemanlingli/BPM/tree/master/doc/database.md )
 
 
+
+#成员
+-freemanlingli  tom
+-shawnshi1984   特特
+-Verten         洪彬
