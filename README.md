@@ -1,15 +1,16 @@
 #工具
-- [需求&缺陷管理]( https://github.com/freemanlingli/BPM/issues)
-- 填写时注意核心模块标记定义
-- [ea][用户管理] 
-- [ea][组织架构管理]   
-- [ea][流程管理]
-- 。。。。。
-- [bpm][任务完成面板]
-- [bpm][选择人狂]
-- [ext][ldap用户认证]    
-。。。。
+- [需求&缺陷管理工具网址]( https://github.com/freemanlingli/BPM/issues)
 
+- 填写task时，标题注意加上下面的标志，可以更清晰定位是哪部分的内容
+- [ea][用户管理] xxxxxxxxxxxxxx
+- [ea][组织架构管理]  xxxxxxxxxxxxxx 
+- [ea][流程管理]xxxxxxxxxxxxxx
+
+- [bpm][任务完成面板]xxxxxxxxxxxxxx
+- [bpm][选择人狂]xxxxxxxxxxxxxx
+- [bpm][资产管理流程][第一个多人分支]xxxxxxxxxxxxxx
+- [ext][ldap用户认证]xxxxxxxxxxxxxx    
+。。。。。。- 。。。。。
 
 #团队参考手册
 
