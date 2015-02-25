@@ -4,8 +4,7 @@
 - 填写task时，标题注意加上下面的标志，可以更清晰定位是哪部分的内容
 - [ea][用户管理] xxxxxxxxxxxxxx
 - [ea][组织架构管理]  xxxxxxxxxxxxxx 
-- [ea][流程管理]xxxxxxxxxxxxxx
-
+- [ea][流程管理]xxxxxxxxxxxxx
 - [bpm][任务完成面板]xxxxxxxxxxxxxx
 - [bpm][选择人狂]xxxxxxxxxxxxxx
 - [bpm][资产管理流程][第一个多人分支]xxxxxxxxxxxxxx
