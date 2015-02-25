@@ -6,7 +6,7 @@
 - [ea][组织架构管理]  xxxxxxxxxxxxxx 
 - [ea][流程管理]xxxxxxxxxxxxx
 - [bpm][任务完成面板]xxxxxxxxxxxxxx
-- [bpm][选择人框]xxxxxxxxxxxxxx
+- [bpm][选择人框] xxxxxxxxxxxxxx
 - [bpm][资产管理流程][第一个多人分支]xxxxxxxxxxxxxx
 - [ext][ldap用户认证]xxxxxxxxxxxxxx    
 。。。。。。- 。。。。。
